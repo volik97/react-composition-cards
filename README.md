@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/a3f9xtv4v1tctv85?svg=true)](https://ci.appveyor.com/project/volik97/react-composition-cards)
